@@ -1,0 +1,1 @@
+This is project deal with robot named "Sholpan" which control by Kinect sensor. Made by Robolab Kazakhstan.
